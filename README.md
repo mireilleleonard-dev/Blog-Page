@@ -1,2 +1,2 @@
-# GitHub3
+A Blog Page
 Mr. Whisker's Blog Page
